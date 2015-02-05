@@ -1,0 +1,40 @@
+
+.fc-header-title > h2{
+    color: #030334 !important;
+}
+
+.fc-day {
+    background: #f5f5f5;
+    transition: 0.3s;
+    -moz-transition: 0.3s;
+    -webkit-transition: 0.3s;
+    -o-transition: 0.3s;
+}
+
+.fc-day:hover {
+    cursor: hand;
+    background: #e3e3e3;
+    transition: 0.3s;
+    -moz-transition: 0.3s;
+    -webkit-transition: 0.3s;
+    -o-transition: 0.3s;
+}
+
+.fc-today{
+    transition: 0.3s;
+    -moz-transition: 0.3s;
+    -webkit-transition: 0.3s;
+    -o-transition: 0.3s;
+}
+
+.fc-today:hover{
+    background: #fcf3c8 !important;
+    transition: 0.3s;
+    -moz-transition: 0.3s;
+    -webkit-transition: 0.3s;
+    -o-transition: 0.3s;
+}
+
+td{
+    font-size: 14px;
+}
